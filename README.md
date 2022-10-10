@@ -14,6 +14,7 @@ This is the implementation of Modular Flows: Differential Molecular Generatin Ne
 - torch-geometric 
 - astropy
 
+The environment file **Modflow_env.yml** has been attached, to replicate the necessary environment to run the method.
 
 ## Datasets
 Datasets are placed in "data/" folder.
