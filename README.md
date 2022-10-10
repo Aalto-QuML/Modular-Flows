@@ -59,6 +59,12 @@ python testing_toy.py --esamples #number_of_samples --data #dataset ("4x4_chess"
 
 ```
 
+For Property Optimization,
+
+```
+python prop_optimize_qed.py --nsamples #number_of_samples --data #dataset --model_name #name/location_of_model_in_Models_folder
+```
+
 
 
 
